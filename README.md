@@ -1,4 +1,8 @@
 # Coloured Trello Jira cards
 
-Create coloured cards and Jira links when Trello card title starts with an issue number like XYZ-123
+User script for creating coloured cards and Jira links on Trello,
+when the title starts with an issue number like XYZ-123.
+
+User scripts can be run on Chrome using a third party browser extension
+called [Tampermonkey](http://tampermonkey.net/).
 
