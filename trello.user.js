@@ -5,8 +5,8 @@
 // @description Create coloured cards and Jira links when Trello card title starts with an issue number like XYZ-123
 // @match       https://trello.com/*
 // @grant	none
-// @downloadURL	https://github.com/ritola/trello.user.js
-// @updateURL	https://github.com/ritola/trello.user.js
+// @downloadURL https://github.com/ritola/coloured-trello-cards/raw/master/trello.user.js
+// @updateURL   https://github.com/ritola/coloured-trello-cards/raw/master/trello.user.js
 // ==/UserScript==
 
 var $ = unsafeWindow.jQuery
